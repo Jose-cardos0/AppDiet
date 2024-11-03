@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  background-color: #0f232c;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #6366f1;
+  font-weight: 600;
+  color: #fff;
+  padding: 8px 16px 8px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4338ca;
+}
+
+label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  margin: 5px 0px 5px 0px;
+}
+input,
+select,
+option {
+  padding: 8px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background-color: white;
+  outline: none;
+  color: #333;
+  font-weight: 400;
+  width: 100%;
+}

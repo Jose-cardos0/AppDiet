@@ -1,0 +1,12 @@
+App diet
+
+
+npm init -y
+
+bibliotecas
+
+npm install cors fastify tsx dotenv
+
+npm install --save-dev @types/cors typescript
+
+npm install @fastify/cors
