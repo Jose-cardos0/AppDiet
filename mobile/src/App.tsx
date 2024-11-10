@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 
 //pages
-import { Home } from "./pages/home";
+import { Home } from "./pages/Home";
 import { DadosClient } from "./pages/DadosClient";
 import { DashBoard } from "./pages/DashBoard";
 import { NotFound } from "./pages/NotFound";
