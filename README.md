@@ -3,7 +3,16 @@
  envia um POST para o backend, o backend recebe o object e comunica a IA, a IA devolve a API. </br>
  Por fim, com o axios faz-se a requisição HTTP e renderizamos as informações em tela.</br>
 
- # Imagens
+# Tecnologias associadas
+• React </br>
+• Typescript </br>
+• Tailwind css </br>
+• Zustand </br>
+• Axios </br>
+• tanstack/react-query
+• Framer-Motion</br>
+
+# Imagens
  
 ![Captura de tela 2024-11-10 183430](https://github.com/user-attachments/assets/fc2137e0-e698-4b76-8783-e50591171ced) </br>
 ![dados](https://github.com/user-attachments/assets/eded96bd-2faf-4d73-b7cf-052253e8be26) </br>
