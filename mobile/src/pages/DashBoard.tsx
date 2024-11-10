@@ -76,10 +76,10 @@ export function DashBoard() {
             initial={{ x: "100%", opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 1, ease: "easeInOut" }}
-            className="bg-white w-full flex items-center justify-around min-h-24"
+            className="bg-white w-full flex items-center
+             justify-around min-h-24 rounded-b-2xl shadow-md shadow-black"
           >
             <div className="bg-transparent ">
-              <img className="bg-transparent max-w-14 " src={logo} alt="" />
               <h1 className="bg-white font-bold text-2xl">Minha dieta</h1>
             </div>
             <button className="shadow-md shadow-black">Compartilhar</button>
