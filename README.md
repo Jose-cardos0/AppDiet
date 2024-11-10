@@ -13,6 +13,17 @@
 • Framer-Motion</br>
 • NodeJs</br>
 
+#Instalação
+• npm init -y</br>
+• npm run dev</br>
+
+# bibliotecas
+• npm install cors fastify tsx dotenv</br>
+• npm install --save-dev @types/cors typescript</br>
+• npm install @fastify/cors</br>
+//instal api</br>
+• npm install @google/generative-ai</br>
+
 # Imagens
  
 ![Captura de tela 2024-11-10 183430](https://github.com/user-attachments/assets/fc2137e0-e698-4b76-8783-e50591171ced) </br>
