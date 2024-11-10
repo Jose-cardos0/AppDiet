@@ -11,6 +11,7 @@
 • Axios </br>
 • tanstack/react-query
 • Framer-Motion</br>
+• NodeJs</br>
 
 # Imagens
  
